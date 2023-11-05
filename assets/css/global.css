@@ -2,9 +2,25 @@
 
 :root{
     --primary-color: #d5c465d6;
-    /* --primary-color: #a69d68; */
+    --primary-color-op:#d5c46500;
+
+    --luffy-color:rgb(16, 16, 79);
+    --luffy-shadow-color:rgba(130, 130, 199, 0);
+
+    --nami-color: rgba(170, 66, 2, 0.755);
+    --nami-shadow-color: rgba(199, 160, 137, 0);
+
+    --roronoa-zoro-color: rgb(2, 61, 1);
+    --roronoa-zoro-shadow-color:rgba(132, 187, 131, 0);
+
+    --sanji-color: #d5c465d6 ;
+    --sanji-shadow-color: rgba(207, 200, 158, 0) ;
+    
+    --usopp-color: rgba(43, 57, 20, 0.927);
+    --usopp-shadow-color:rgba(55, 79, 16, 0);
 }
 
 body{
     font-family: "Poppins", sans-serif;
+    overflow: hidden;
 }

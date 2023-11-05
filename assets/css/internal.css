@@ -1,0 +1,106 @@
+@import url(reset.css);
+@import url(global.css);
+@import url(components/navigator.css);
+@import url(components/pills.css);
+@import url(components/link-button.css);
+@import url(components/gallery.css);
+
+
+.luffy{
+    background-image: linear-gradient(to right, var(--luffy-color) , var(--luffy-shadow-color));
+}
+.nami{
+    background-image: linear-gradient(to right, var(--nami-color) , var(--nami-shadow-color));
+}
+.roronoa-zoro{
+    background-image: linear-gradient(to right, var(--roronoa-zoro-color) , var(--roronoa-zoro-shadow-color));
+}
+.usopp{
+    background-image: linear-gradient(to right, var(--usopp-color) , var(--usopp-shadow-color));
+}
+.sanji{
+    background-image: linear-gradient(to right, var(--sanji-color) , var(--sanji-shadow-color));
+}
+.shadow{
+    position: fixed;
+    z-index: 1;
+    width: 50%;
+    height: 100%;
+}
+
+
+.o-wrapper{
+    display: flex;
+    height: 100vh;
+    flex-flow: row nowrap;
+}
+
+.o-wrapper video{
+    position: fixed;
+    width:100%;  
+}
+.o-wrapper .o-left-column{
+    width: 100px;
+    height: 100%;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    position: fixed;
+    padding-right: 50px;
+    padding-left: 70px;
+    top: 0;
+    z-index: 2;
+}
+.o-main-content{
+    margin-top: -10px;
+    left: 100px;
+    z-index: 1;
+}
+.o-wrapper .o-main-content{
+    width: 100%;
+    height: 100%;
+    padding-left: 130px;
+    position: relative;
+}
+.o-wrapper .o-main-content__top{
+    height: 70vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.o-wrapper .o-main-content__bottom{
+    height: 31vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.o-wrapper .o-main-content .o-logo img{
+    height: 150px;
+    margin-top: 50px;
+    margin-left: 0;
+    margin-bottom: 10px;
+}
+
+
+.o-wrapper .o-main-content__top .o-description{
+    background-color: rgba(0,0,0, 0.7);
+    max-width: 50%;
+    padding: 20px;
+    border-radius: 10px;
+}
+.o-wrapper .o-main-content__top .o-description .o-description__text p{
+    color: white;
+    line-height: 170%;
+}
+.o-wrapper .o-main-content__top .o-description .pills{
+    margin-bottom: 20px;
+}
+
+
+.o-wrapper .o-main-content .o-links{
+  padding: 10px 0px;
+}
+.o-wrapper .o-main-content .o-links ul{
+    display: flex;
+    flex-direction: row;
+}
