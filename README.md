@@ -1,7 +1,7 @@
 # One Piece- Live Action
 
-
-[![Ver projeto](https://img.shields.io/badge/Ver_projeto-black?style=for-the-badge&logo=github&logoColor=white)](https://euingridsouza.github.io/OnePiece_liveAction/)
+[![onepiece.png](https://i.postimg.cc/MZvCCnbD/onepiece.png)](https://euingridsouza.github.io/OnePiece_liveAction/)
+[![Ver projeto](https://img.shields.io/badge/Ver_projeto-black?style=for-the-badge&logoColor=white)](https://euingridsouza.github.io/OnePiece_liveAction/)
 
 
 
