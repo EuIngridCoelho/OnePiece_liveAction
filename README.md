@@ -16,7 +16,7 @@ Com fins didáticos, este projeto teve como objetivo aprimorar os conceitos de H
 ### Projeto semelhante:
 | Diretório  | Página|
 | ------------- | ------------- |
-| [![Diretório Multiverso Homem Aranha](https://img.shields.io/badge/Multiverso_Homem_Aranha-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EuIngridSouza/Multiverso_Homem-Aranha.git)  | [![Multiverso Homem Aranha](https://img.shields.io/badge/One_Piece-black?style=for-the-badge&logoColor=white)](https://euingridsouza.github.io/Multiverso_Homem-Aranha/)  |
+| [![Diretório Multiverso Homem Aranha](https://img.shields.io/badge/Multiverso_Homem_Aranha-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EuIngridSouza/Multiverso_Homem-Aranha.git)  | [![Multiverso Homem Aranha](https://img.shields.io/badge/Multiverso_Homem--Aranha-black?style=for-the-badge&logoColor=white)](https://euingridsouza.github.io/Multiverso_Homem-Aranha/)  |
 
 
 
